@@ -1,1 +1,4 @@
+too big ;( 
 
+The processed features CSV is generated automatically by the src/train.py 
+script—look for the section in that file where it writes out the features to data/processed/BTCUSDT-1m-features.csv.
