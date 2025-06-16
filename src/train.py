@@ -6,7 +6,7 @@ from lightgbm import LGBMRegressor
 # 1) Charger les features pré-calculées
 # Assurez-vous que le CSV contient toutes les features dérivées et la colonne 'target_spread'
 df_feat = pd.read_csv(
-    r'C:\Users\wille\Desktop\PML SPREAD\BTCUSDT-1m-features.csv',
+    r'C:\Users\\BTCUSDT-1m-features.csv',
     parse_dates=['datetime'], index_col='datetime'
 )
 df_feat.sort_index(inplace=True)
