@@ -13,7 +13,7 @@ _Les métriques sont calculées sur le jeu de données de test après entraînem
 ![image](https://github.com/user-attachments/assets/6466d199-e030-4f0a-ba3f-22c25159eb27)
 
 ### Distribution des résidus
-![image](https://github.com/user-attachments/assets/0d0f3b62-e7aa-4856-820b-0030719e8a78)
+![image](https://github.com/user-attachments/assets/7a10d635-1476-4fc0-bfaf-daf3f6b8f2ec)
 
 ### Importance des features (Top 20)
 ![image](https://github.com/user-attachments/assets/94e674ab-8138-4444-bdf5-a6699d91a853)
