@@ -8,7 +8,6 @@ Ce projet met en place le pipeline ML complet pour prédire le spread BTCUSDT su
   - **processed/**: automatically populated by `src/train.py` with feature CSVs.
   - **README.md**: instructions for adding raw CSVs and generating processed features.
 - **src/**
-  - `utils.py`: loading and preprocessing functions (e.g., load_ohlc).
   - `train.py`: trains the LightGBM model, exports feature CSV to `data/processed/`, and saves the model to `models/`.
   - `predict.py`: loads the trained model and generates spread predictions from processed features.
 - **models/**
